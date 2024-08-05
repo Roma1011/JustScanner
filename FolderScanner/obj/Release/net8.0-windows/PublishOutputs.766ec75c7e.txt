@@ -1,0 +1,11 @@
+C:\Sources\Scanner\FolderScanner\bin\Release\net8.0-windows\publish\FolderScanner.exe
+C:\Sources\Scanner\FolderScanner\bin\Release\net8.0-windows\publish\FolderScanner.dll
+C:\Sources\Scanner\FolderScanner\bin\Release\net8.0-windows\publish\FolderScanner.deps.json
+C:\Sources\Scanner\FolderScanner\bin\Release\net8.0-windows\publish\FolderScanner.runtimeconfig.json
+C:\Sources\Scanner\FolderScanner\bin\Release\net8.0-windows\publish\FolderScanner.pdb
+C:\Sources\Scanner\FolderScanner\bin\Release\net8.0-windows\publish\ClosedXML.dll
+C:\Sources\Scanner\FolderScanner\bin\Release\net8.0-windows\publish\DocumentFormat.OpenXml.dll
+C:\Sources\Scanner\FolderScanner\bin\Release\net8.0-windows\publish\ExcelNumberFormat.dll
+C:\Sources\Scanner\FolderScanner\bin\Release\net8.0-windows\publish\Irony.dll
+C:\Sources\Scanner\FolderScanner\bin\Release\net8.0-windows\publish\SixLabors.Fonts.dll
+C:\Sources\Scanner\FolderScanner\bin\Release\net8.0-windows\publish\XLParser.dll
